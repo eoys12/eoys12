@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+Edward Ong is one of the Electronics Media Co-Chairs to organize the IEEE International Conference on Digital Signal Processing (DSP2018) in Shanghai, China. In addition, he is in the organizing committee for the SG100 Nation-Hack-a-thon together with SG100 Foundation, People's Association and Digital Makers Interest Group.He has obtained the College Scholarship and Second Class (Upper Division) (4.31 out of 5.0) as an undergraduate
+in the Bachelor of Engineering (EEE).
 
-You can use the [editor on GitHub](https://github.com/eoys12/eoys12/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship Award in his final year of the Diploma with Merit in Electronics, Computer & Communications Engineering (3.965 out of 4.0), and six semesters of Director's List. He has represented NYP in the APEC 2010 MicroMouse Competition, Palm Springs, California and achieved Champion, 1st Runners Up & Best Student award together with the team. Notably, he has achieved overall 1st Runners Up (SGD4000.00) in the Climate Innovation Challenge 2016 with his team. Edward Ong went for the GEM Explorer Student Exchange Programme, University of Strathclyde (Faculty of Engineering), United Kingdom in the year 2014.
 
 ### Markdown
 
