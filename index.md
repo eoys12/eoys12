@@ -4,11 +4,21 @@ Edward Ong is one of the Electronics Media Co-Chairs to organize the IEEE Intern
 
 In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship Award in his final year of the Diploma with Merit in Electronics, Computer & Communications Engineering (3.965 out of 4.0), and six semesters of Director's List. He has represented NYP in the APEC 2010 MicroMouse Competition, Palm Springs, California and achieved Champion, 1st Runners Up & Best Student award together with the team. Notably, he has achieved overall 1st Runners Up (SGD4000.00) in the Climate Innovation Challenge 2016 with his team. Edward Ong went for the GEM Explorer Student Exchange Programme, University of Strathclyde (Faculty of Engineering), United Kingdom in the year 2014.
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | ![#eoy12](https://img.shields.io/badge/-%23eoy12-yellow) |
+
 ![#eoy12](https://img.shields.io/badge/-%23eoy12-yellow)
 
 ## _Understand Past . Appreciate Present . Ready for Future_
 
-![Image of Edward Ong](/images/IMG_6186.JPG)
+<img src="/images/2M6A5329.JPG" width="425"/> <img src="/images/2M6A5329.JPG" width="425"/> 
+<i class="icon-cogs"></i> icon-cogs
+
+"Icon made by Freepik from www.flaticon.com"
+
+![Image of Edward Ong](/images/2M6A5329.JPG)
 
 ## Academic Awards 
 
