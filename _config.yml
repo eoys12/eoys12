@@ -1,5 +1,6 @@
 remote_theme: _layout/index.md
-
+title-heading: false
+title: nil
 github:
   is_project_page: false
-  title: false
+ 
