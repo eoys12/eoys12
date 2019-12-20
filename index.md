@@ -64,7 +64,7 @@ Engineering                |  Business                 |  Coding
 5. Outstanding Achievements & Contributions Award 
 6. Appreciation Award 
 
-## Thank You
+## Thank You for Visiting!
 ![Love is in the air . . .](https://media.giphy.com/media/dva7aK2FEjNwkft9PB/giphy.gif)
 
 *"Icon made by Freepik from www.flaticon.com"*
