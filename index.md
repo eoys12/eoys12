@@ -14,6 +14,7 @@ Engineering                |  Business                 |  Coding
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-brightgreen) ![EAGLE](https://img.shields.io/badge/-EAGLE-green) ![MATLAB](https://img.shields.io/badge/-MATLAB-red) | |
 ![Arduino](https://img.shields.io/badge/-Arduino-yellowgreen) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-yellow) ![micro:bit](https://img.shields.io/badge/-micro%3Abit-orange) ![Intel MCS-51](https://img.shields.io/badge/-Intel%20MCS--51-blue)||
 ![mBot](https://img.shields.io/badge/-mBot-red) ![mBot Ranger](https://img.shields.io/badge/-mBot%20Ranger-lightgrey) ![Ultimate](https://img.shields.io/badge/-Ultimate-blue) ![Lego Mindstorms](https://img.shields.io/badge/-Lego%20Mindstorms-brightgreen) ![Tello](https://img.shields.io/badge/-Tello-green) ![RoboGP](https://img.shields.io/badge/-RoboGP-yellowgreen) ![Micromouse](https://img.shields.io/badge/-Micromouse-yellow) ![Parrot](https://img.shields.io/badge/-Parrot-orange)||
+![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-brightgreen) ![Function Generator](https://img.shields.io/badge/-Function%20Generator-green) ![Multimeter](https://img.shields.io/badge/-Multimeter-yellowgreen) ![Soldering](https://img.shields.io/badge/-Soldering-yellow) ![Wire Wrap](https://img.shields.io/badge/-Wire%20Wrap-orange)||
 
 *"Icon made by Freepik from www.flaticon.com"*
 
