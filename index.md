@@ -4,12 +4,14 @@ Edward Ong is one of the Electronics Media Co-Chairs to organize the IEEE Intern
 
 In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship Award in his final year of the Diploma with Merit in Electronics, Computer & Communications Engineering (3.965 out of 4.0), and six semesters of Director's List. He has represented NYP in the APEC 2010 MicroMouse Competition, Palm Springs, California and achieved Champion, 1st Runners Up & Best Student award together with the team. Notably, he has achieved overall 1st Runners Up (SGD4000.00) in the Climate Innovation Challenge 2016 with his team. Edward Ong went for the GEM Explorer Student Exchange Programme, University of Strathclyde (Faculty of Engineering), United Kingdom in the year 2014.
 
+## Skillsets
+
 Engineering                |  Business                 |  Coding
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image of Engineering](/icons/1587565.png)  |  ![Image of Business](/icons/1055646.png)  |   ![Image of Coding](/icons/1005141.png)
-![Altium Designer](https://img.shields.io/badge/Software-Altium%20Designer-brightgreen) ![EAGLE](https://img.shields.io/badge/Software-EAGLE-green)| |
+![Altium Designer](https://img.shields.io/badge/Software-Altium%20Designer-brightgreen) ![EAGLE](https://img.shields.io/badge/Software-EAGLE-green)![Arduino](https://img.shields.io/badge/Microcontrollers-Arduino-yellowgreen)| |
 
-"Icon made by Freepik from www.flaticon.com"
+*"Icon made by Freepik from www.flaticon.com"*
 
 
 ![#eoy12](https://img.shields.io/badge/-%23eoy12-yellow)
@@ -17,6 +19,10 @@ Engineering                |  Business                 |  Coding
 ## Understand Past . Appreciate Present . Ready for Future
 
 ![Image of Edward Ong](/images/2M6A5329.JPG)
+
+> "As a Singaporean, I will always do my best for Singapore in the best capacity that I can offer."
+>
+> -- Edward Ong
 
 ## Academic Awards 
 
@@ -53,37 +59,3 @@ Engineering                |  Business                 |  Coding
 1. Service & Support Soldier of the Month of September
 2. Outstanding Achievements & Contributions Award 
 3. Appreciation Award 
-
-> "As a Singaporean, I will always do my best for Singapore in the best capacity that I can offer."
->
-> -- Edward Ong
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eoys12/eoys12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
