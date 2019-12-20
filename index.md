@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![Image of Edward Ong](/images/2M6A5620.jpg)
+![Image of Edward Ong](/images/2M6A5620.JPG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
