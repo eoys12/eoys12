@@ -17,7 +17,7 @@ Engineering                |  Business                 |  Coding
 ![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-brightgreen) ![Function Generator](https://img.shields.io/badge/-Function%20Generator-green) ![Multimeter](https://img.shields.io/badge/-Multimeter-yellowgreen) ![Soldering](https://img.shields.io/badge/-Soldering-yellow) ![Wire Wrap](https://img.shields.io/badge/-Wire%20Wrap-orange)| ![Developing New Business Models](https://img.shields.io/badge/-Developing%20New%20Business%20Models-green) ![Technology, Innovation & Design](https://img.shields.io/badge/-Technology%2C%20Innovation%20%26%20Design-yellowgreen) ![Sustainable Leadership](https://img.shields.io/badge/-Sustainable%20Leadership-orange)| ![Tensorflow](https://img.shields.io/badge/-Tensorflow-brightgreen) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-yellowgreen)
 -| ![Strategy Innovation](https://img.shields.io/badge/-Strategy%20Innovation-red) ![Corporate Finance](https://img.shields.io/badge/-Corporate%20Finance-lightgrey) ![Merger & Acquisition](https://img.shields.io/badge/-Merger%20%26%20Acquisition-blue)| ![Wix](https://img.shields.io/badge/-Wix-brightgreen)  ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-green)
 
-![Image of Edward Ong](/images/2M6A5329.JPG)
+![Image of Edward Ong & Ng Li Ying](/images/P003.jpg)
 
 ## Understand Past . Appreciate Present . Ready for Future
 
