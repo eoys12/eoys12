@@ -4,7 +4,7 @@ in the Bachelor of Engineering (EEE).
 
 In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship Award in his final year of the Diploma with Merit in Electronics, Computer & Communications Engineering (3.965 out of 4.0), and six semesters of Director's List. He has represented NYP in the APEC 2010 MicroMouse Competition, Palm Springs, California and achieved Champion, 1st Runners Up & Best Student award together with the team. Notably, he has achieved overall 1st Runners Up (SGD4000.00) in the Climate Innovation Challenge 2016 with his team. Edward Ong went for the GEM Explorer Student Exchange Programme, University of Strathclyde (Faculty of Engineering), United Kingdom in the year 2014.
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) and [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![#eoy12](https://img.shields.io/badge/-%23eoy12-yellow)![#사랑 코딩](https://img.shields.io/badge/-%23%EC%82%AC%EB%9E%91%20%EC%BD%94%EB%94%A9-blue)
 
 ### Markdown
 
