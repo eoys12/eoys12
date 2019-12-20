@@ -8,7 +8,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ### Markdown
 
-![Image of Edward Ong](/images/2M6A5620.JPG)
+![Image of Edward Ong](/images/IMG_6186.JPG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
