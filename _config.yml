@@ -1,6 +1,7 @@
 remote_theme: _layout/index.md
-title-heading: false
-title: false
+
+name: Edward Ong Yong Seng (王永成）
+title: null
 github:
   is_project_page: false
  
