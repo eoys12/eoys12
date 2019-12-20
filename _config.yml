@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 
 github:
   is_project_page: false
+
+exclude:
+  - assets/javascript/anchor-js
