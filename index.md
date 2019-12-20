@@ -9,7 +9,8 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 Engineering                |  Business                 |  Coding
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image of Engineering](/icons/1587565.png)  |  ![Image of Business](/icons/1055646.png)  |   ![Image of Coding](/icons/1005141.png)
-![Altium Designer](https://img.shields.io/badge/Software-Altium%20Designer-brightgreen) ![EAGLE](https://img.shields.io/badge/Software-EAGLE-green)![Arduino](https://img.shields.io/badge/Microcontrollers-Arduino-yellowgreen)| |
+![Altium Designer](https://img.shields.io/badge/Software-Altium%20Designer-brightgreen) ![EAGLE](https://img.shields.io/badge/Software-EAGLE-green) ![Arduino](https://img.shields.io/badge/Microcontrollers-Arduino-yellowgreen) | |
+![Raspberry Pi](https://img.shields.io/badge/Single%20Board%20Computer-Raspberry%20Pi-yellow)||
 
 *"Icon made by Freepik from www.flaticon.com"*
 
