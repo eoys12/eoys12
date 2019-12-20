@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: _layout/index.md
 
 github:
   is_project_page: false
