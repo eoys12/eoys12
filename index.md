@@ -1,4 +1,4 @@
-![Image of Cover](/images/cover01.png)
+![Image of Cover](/images/cover02.png)
 
 # Edward Ong Yong Seng (王永成）
 
