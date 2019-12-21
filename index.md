@@ -1,5 +1,4 @@
 ![Image of Edward Ong & Ng Li Ying](/images/cover03.png)
-<img src="./images/cover02.png" alt="drawing" width="1025"/>
 
 # Edward Ong Yong Seng (王永成）
 
