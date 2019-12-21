@@ -1,6 +1,4 @@
-![Image of Cover](/images/cover02.png =100x20)
-
-<img src="./images/cover02.png" alt="drawing" width="200"/>
+<img src="./images/cover02.png" alt="drawing" width="875"/>
 
 # Edward Ong Yong Seng (王永成）
 
