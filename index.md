@@ -1,3 +1,5 @@
+![Image of Cover](/images/cover01.png)
+
 # Edward Ong Yong Seng (王永成）
 
 Edward Ong is one of the Electronics Media Co-Chairs to organize the IEEE International Conference on Digital Signal Processing (DSP2018) in Shanghai, China. In addition, he is in the organizing committee for the SG100 Nation-Hack-a-thon together with SG100 Foundation, People's Association and Digital Makers Interest Group.He has obtained the College Scholarship and Second Class (Upper Division) (4.31 out of 5.0) as an undergraduate in the Bachelor of Engineering (EEE).
