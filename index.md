@@ -26,8 +26,7 @@ Engineering                |  Business                 |  Coding
 > "As a Singaporean, I will always do my best for Singapore in the best capacity that I can offer."
 >
 > -- Edward Ong
-
-View my gallery on [Singaporeans & Friends](https://eoys12.github.io/eoys12/).
+> View my gallery on [Singaporeans & Friends](https://eoys12.github.io/eoys12/singaporeans&friends.html).
 
 ## Academic Awards 
 
