@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Singaporeans & Friends</title>
+<link rel = "stylesheet"
+  href = "my.css" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -189,6 +191,39 @@ function display_ct() {
         <small class="text-muted">Last updated on December 22nd, 2019</small>
       </div>
     </div>
+</div>
+<p></p>
+<hr>
+<p></p>
+<div class="container">
+  <div style="text-align:center">
+    <h2>Contact Me</h2>
+    <p>Swing by for a cup of coffee, or leave me a message:</p>
+  </div>
+  <div class="row">
+    <div class="column">
+      <img src="images/me.jpg" style="width:100%">
+    </div>
+    <div class="column">
+      <form action="https://formspree.io/mqkeqkez"
+      method="POST"
+      enctype="multipart/form-data">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <p></p>
+        <label>
+          Your file:
+          <input type="file" name="upload">
+        </label>
+        <p></p>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
 </div>
 <p></p>
     <hr>
