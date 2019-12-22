@@ -27,6 +27,8 @@ Engineering                |  Business                 |  Coding
 >
 > -- Edward Ong
 
+View my gallery on [Singaporeans & Friends](https://eoys12.github.io/eoys12/).
+
 ## Academic Awards 
 
 1. NTC-MSc TIP Entrepreneurship Study Award
@@ -66,7 +68,7 @@ Engineering                |  Business                 |  Coding
 5. Outstanding Achievements & Contributions Award 
 6. Appreciation Award 
 
-## Thank You for Visiting!
+## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
 ![Love is in the air . . .](https://media.giphy.com/media/dva7aK2FEjNwkft9PB/giphy.gif)
 
 *"Icon made by Freepik from www.flaticon.com"*
