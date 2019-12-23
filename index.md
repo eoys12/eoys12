@@ -62,6 +62,7 @@ Engineering                |  Business                 |  Coding
 18. Singapore Robo Grand Prix Competition @Singapore Motorshow 2004 – Team Champion, 1st Runners Up, 2nd Runners Up
 
 ## Service & Learning Awards:
+
 1. Certificate of Completion AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
 2. Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner
 3. Certificate of Completion Research Integrity Course Module in Engineering and Technology Track
@@ -70,6 +71,9 @@ Engineering                |  Business                 |  Coding
 6. Appreciation Award 
 
 ## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
+
 ![Love is in the air . . .](https://media.giphy.com/media/dva7aK2FEjNwkft9PB/giphy.gif)
+
+## Credits
 
 *"Icon made by Freepik from www.flaticon.com"*
