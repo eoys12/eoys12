@@ -234,11 +234,14 @@ function display_ct() {
         <p></p>
         <label>
           Your file:
-          <input type="file" name="upload">
+          <input type="file" name="upload" accept="image/png, image/jpeg, image/jpg">
         </label>
         <p></p>
-        <label for="subject">Subject:</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <div class="form-group">
+          <label for="subject">Subject *</label>
+          <textarea id="subject" name="subject" class="form-control" placeholder="Write something.." style="height:170px" required="required" data-error="Valid email is required."></textarea>
+          <div class="help-block with-errors"></div>
+        </div>
         <input type="submit" value="Submit">
         <p></p>
         <p class="text-muted"><strong>*</strong> These fields are required. </p>
