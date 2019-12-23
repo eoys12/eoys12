@@ -42,7 +42,7 @@ Engineering                |  Business                 |  Coding
 
 ## Competition Awards 
 
-1.Hack:Nation Robocode Wars 2018 - Team Champion (Creative Sound Blaster Roar), 1st Runners Up (Razer Mouse), 2nd Runners Up (MyRepublic Thumbdrive)
+1. Hack:Nation Robocode Wars 2018 - Team Champion (Creative Sound Blaster Roar), 1st Runners Up (Razer Mouse), 2nd Runners Up (MyRepublic Thumbdrive)
 2. iDigix 3D-Tronics Challenge 2017 – (Open Category) Team Champion
 3. Climate Innovation Challenge 2016 – Second Prize
 4. Cool Ideas for Better HDB Living 2013/2014 Competition (Stage 1) – Top 10
