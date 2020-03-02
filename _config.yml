@@ -1,4 +1,5 @@
 remote_theme: _layout/index.md
+remote_theme: _includes/favicon.ico
 
 name: Edward Ong Yong Seng (王永成）
 title: null
