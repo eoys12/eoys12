@@ -63,7 +63,7 @@ Engineering                |  Business                 |  Coding
 
 ## Service & Learning Awards:
 
-1. Certificate of Achievement, he Fundamentals of Digital Marketing - Google Digital Garage
+1. Certificate of Achievement The Fundamentals of Digital Marketing - Google Digital Garage
 2. Certificate of Completion AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
 3. Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner
 4. Certificate of Completion Research Integrity Course Module in Engineering and Technology Track
