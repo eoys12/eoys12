@@ -88,7 +88,7 @@ Engineering                |  Business                 |  Coding
 2. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
 3. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
 4. 4SIR, Bravo Coy - Outstanding Achievements & Contributions Award 
-5. Appreciation Award 
+5. West Grove Primary School - Appreciation Award 
 
 ## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
 
