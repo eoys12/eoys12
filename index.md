@@ -63,13 +63,15 @@ Engineering                |  Business                 |  Coding
 
 ## Service & Learning Awards:
 
-1. Certificate of Achievement The Fundamentals of Digital Marketing - Google Digital Garage
-2. Certificate of Completion AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
-3. Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner
-4. Certificate of Completion Research Integrity Course Module in Engineering and Technology Track
-5. Service & Support Soldier of the Month of September
-6. Outstanding Achievements & Contributions Award 
-7. Appreciation Award 
+1. Content Marketing Certified - HubSpot Academy
+2. Letter of Congratulations - Young Crew Singapore Awards Commissioner
+3. Certificate of Achievement The Fundamentals of Digital Marketing - Google Digital Garage
+4. Certificate of Completion AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
+5. Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner
+6. Certificate of Completion Research Integrity Course Module in Engineering and Technology Track
+7. Service & Support Soldier of the Month of September
+8. Outstanding Achievements & Contributions Award 
+9. Appreciation Award 
 
 ## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
 
