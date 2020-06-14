@@ -61,17 +61,27 @@ Engineering                |  Business                 |  Coding
 17. Robocode Competition – Team Champion
 18. Singapore Robo Grand Prix Competition @Singapore Motorshow 2004 – Team Champion, 1st Runners Up, 2nd Runners Up
 
-## Service & Learning Awards:
+## Learning Awards:
 
-1. Content Marketing Certified - HubSpot Academy
-2. Letter of Congratulations - Young Crew Singapore Awards Commissioner
-3. Certificate of Achievement The Fundamentals of Digital Marketing - Google Digital Garage
-4. Certificate of Completion AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
-5. Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner
-6. Certificate of Completion Research Integrity Course Module in Engineering and Technology Track
-7. Service & Support Soldier of the Month of September
-8. Outstanding Achievements & Contributions Award 
-9. Appreciation Award 
+1. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
+2. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
+3. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
+4. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
+5. HubSpot Academy - Content Marketing Certified 
+6. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+7. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+8. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+9. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+10. BitDegree - Lean Six Sigma Training - Improve Your Business Now!
+11. Alison - Certificate, Coronavirus - What you need to know
+
+## Service Awards:
+
+1. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
+2. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
+3. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
+4. Outstanding Achievements & Contributions Award 
+5. Appreciation Award 
 
 ## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
 
