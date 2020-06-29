@@ -70,22 +70,23 @@ Engineering                |  Business                 |  Coding
 4. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
 5. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
 6. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
-7. Udemy - Complete App Design - UX, UI, and Design Thinking
-8. HubSpot Academy - Content Marketing Certified 
-9. HubSpot Academy - Inbound Marketing Certified
-10. HubSpot Academy - Social Media Certified
-11. HubSpot Academy - Email Marketing Certified  
-12. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
-13. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
-14. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
-15. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
-16. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
-17. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
-18. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
-19. BitDegree - Certificate of Completion, GIT tutorial for beginners
-20. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
-21. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
-22. Alison - Certificate, Coronavirus - What you need to know
+7. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
+8. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
+9. HubSpot Academy - Content Marketing Certified 
+10. HubSpot Academy - Inbound Marketing Certified
+11. HubSpot Academy - Social Media Certified
+12. HubSpot Academy - Email Marketing Certified  
+13. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+14. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+15. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+16. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+17. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
+18. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+19. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
+20. BitDegree - Certificate of Completion, GIT tutorial for beginners
+21. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
+22. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+23. Alison - Certificate, Coronavirus - What you need to know
 
 ## Service Awards:
 
