@@ -1,4 +1,4 @@
-![Image of Edward Ong & Ng Li Ying](/images/cover03.png)
+![Image of Edward Ong & Ng Li Ying](/images/cover04.jpg)
 
 # Edward Ong Yong Seng (王永成）
 
