@@ -20,7 +20,7 @@ Engineering                |  Business                 |  Coding
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-brightgreen) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-green)| ![Strategy Innovation](https://img.shields.io/badge/-Strategy%20Innovation-red) ![Corporate Finance](https://img.shields.io/badge/-Corporate%20Finance-lightgrey) ![Merger & Acquisition](https://img.shields.io/badge/-Merger%20%26%20Acquisition-blue)| -
 ![Node-RED](https://img.shields.io/badge/-Node--RED-blue) | ![New Venture Creation: Managing Growth](https://img.shields.io/badge/-New%20Venture%20Creation:%20Managing%20Growth-brightgreen) ![New Venture Creation: Implementing Business Strategy](https://img.shields.io/badge/-New%20Venture%20Creation:%20Implementing%20Business%20Strategy-green) | -
 
-![Image of Edward Ong & Ng Li Ying](/images/cover04.jpg)
+![Image of Edward Ong & Ng Li Ying](/images/cover04.png)
 
 ## Understand Past . Appreciate Present . Ready for Future
 
