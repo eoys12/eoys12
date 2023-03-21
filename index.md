@@ -96,7 +96,7 @@ Engineering                |  Business                 |  Coding
 4. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
 5. West Grove Primary School - Appreciation Award 
 
-## Thank You for Visiting! Terima Kasih Kerana Melawat! 谢谢你的拜访! வருகைக்கு நன்றி!
+## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
 ![Love is in the air . . .](https://media.giphy.com/media/dva7aK2FEjNwkft9PB/giphy.gif)
 
