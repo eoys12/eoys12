@@ -69,24 +69,25 @@ Engineering                |  Business                 |  Coding
 3. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
 4. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
 5. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-6. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
-7. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
-8. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
-9. HubSpot Academy - Content Marketing Certified 
-10. HubSpot Academy - Inbound Marketing Certified
-11. HubSpot Academy - Social Media Certified
-12. HubSpot Academy - Email Marketing Certified  
-13. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
-14. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
-15. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
-16. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
-17. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
-18. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
-19. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
-20. BitDegree - Certificate of Completion, GIT tutorial for beginners
-21. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
-22. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
-23. Alison - Certificate, Coronavirus - What you need to know
+6. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
+7. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
+8. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
+9. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
+10. HubSpot Academy - Content Marketing Certified 
+11. HubSpot Academy - Inbound Marketing Certified
+12. HubSpot Academy - Social Media Certified
+13. HubSpot Academy - Email Marketing Certified  
+14. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+15. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+16. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+17. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+18. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
+19. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+20. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
+21. BitDegree - Certificate of Completion, GIT tutorial for beginners
+22. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
+23. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+24. Alison - Certificate, Coronavirus - What you need to know
 
 ## Service Awards:
 
