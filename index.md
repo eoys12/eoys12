@@ -91,11 +91,14 @@ Engineering                |  Business                 |  Coding
 
 ## Service Awards:
 
-1. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
-2. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
-3. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
-4. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
-5. West Grove Primary School - Appreciation Award 
+1. Microsoft Learn Student Ambassadors PSB Academy - Certificate of Appreciation
+2. Engineering Innovation Challenge 2021 (Mentor) - Certificate of Appreciation
+3. Engineering Innovation Challenge 2020 (Mentor) - Certificate of Appreciation
+4. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
+5. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
+6. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
+7. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
+8. West Grove Primary School - Appreciation Award 
 
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
