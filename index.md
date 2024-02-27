@@ -64,13 +64,13 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Learning Credentials:
 
-1. Linkedin Learning - Agile Foundations
-2. Linkedin Learning - Agile New Product Development for Manufacturers
-3. Linkedin Learning - Agile at Work: Driving Productive Agile Meetings
-4. Linkedin Learning - Agile at Work: Building Your Agile Team
+1. Linkedin Learning - Certificate of Completion, Agile Foundations
+2. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
+3. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+4. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
 5. Certificate of Completion - ITSECRMF100WB, IRAMP/RMF Overview
 6. Certificate of Completion - ITSECPUSA100WB, Privileged User/System Administrator Overview
-7. Linkedin Learning - Visual Studio 2022, First Look
+7. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
 8. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
 9. Beta University, Beta Online Program - Certificate of Completion
 10. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
