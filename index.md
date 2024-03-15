@@ -62,7 +62,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 17. Robocode Competition – Team Champion
 18. Singapore Robo Grand Prix Competition @Singapore Motorshow 2004 – Team Champion, 1st Runners Up, 2nd Runners Up
 
-## Learning Credentials:
+## Management/Non-Technical Learning Credentials:
 
 1. Certificate of Completion - CORE1000 – CORE Apprentice
 2. Certificate of Completion - C1503WB – CORE Champion - Deploying the CORE Operating System
@@ -78,10 +78,13 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 12. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
 13. Certificate of Completion - ITSECRMF100WB, IRAMP/RMF Overview
 14. Certificate of Completion - ITSECPUSA100WB, Privileged User/System Administrator Overview
-15. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
-16. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+15. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
 17. Beta University, Beta Online Program - Certificate of Completion
 18. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
+
+## Technical Learning Credentials:
+
+15. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
 19. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
 20. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
 21. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
