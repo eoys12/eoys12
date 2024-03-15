@@ -81,33 +81,33 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 15. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
 17. Beta University, Beta Online Program - Certificate of Completion
 18. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
-
-## Technical Learning Credentials:
-
-15. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
-19. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
-20. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
+19. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
 21. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
 22. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-23. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
-24. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
-25. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
-26. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
-27. HubSpot Academy - Content Marketing Certified
+23. HubSpot Academy - Content Marketing Certified
 28. HubSpot Academy - Inbound Marketing Certified
 29. HubSpot Academy - Social Media Certified
 30. HubSpot Academy - Email Marketing Certified
-31. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
-32. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
-33. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
-34. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
-35. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
-36. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
-37. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
-38. BitDegree - Certificate of Completion, GIT tutorial for beginners
-39. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
-40. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
-41. Alison - Certificate, Coronavirus - What you need to know
+31. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+32. Alison - Certificate, Coronavirus - What you need to know
+
+## Technical Learning Credentials:
+
+1. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
+2. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
+3. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
+4. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
+5. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
+6. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
+7.  BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+8. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+9. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+10. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+11. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
+12. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
+13. BitDegree - Certificate of Completion, GIT tutorial for beginners
+14. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
+15. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
 
 ## Service Credentials:
 
