@@ -62,7 +62,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 17. Robocode Competition – Team Champion
 18. Singapore Robo Grand Prix Competition @Singapore Motorshow 2004 – Team Champion, 1st Runners Up, 2nd Runners Up
 
-## Management/Non-Technical Learning Credentials:
+## Management Learning Credentials:
 
 1. Linkedin Learning - Certificate of Completion, Scrum: The Basics
 2. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
@@ -92,15 +92,9 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 26. Certificate of Completion - ITSECRMF100WB, IRAMP/RMF Overview
 27. Certificate of Completion - ITSECPUSA100WB, Privileged User/System Administrator Overview
 28. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-29. Beta University, Beta Online Program - Certificate of Completion
-30. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
-31. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
-32. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
+
 33. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-34. HubSpot Academy - Content Marketing Certified
-35. HubSpot Academy - Inbound Marketing Certified
-36. HubSpot Academy - Social Media Certified
-37. HubSpot Academy - Email Marketing Certified
+
 38. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 39. Alison - Certificate, Coronavirus - What you need to know
 
@@ -122,6 +116,18 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 14. BitDegree - Certificate of Completion, GIT tutorial for beginners
 15. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
 16. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+
+## Non-Technical Learning Credentials: 
+
+1. HubSpot Academy - Content Marketing Certified
+2. HubSpot Academy - Inbound Marketing Certified
+3. HubSpot Academy - Social Media Certified
+37. HubSpot Academy - Email Marketing Certified
+38. 29. Beta University, Beta Online Program - Certificate of Completion
+30. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
+31. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
+32. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
+33. Alison - Certificate, Coronavirus - What you need to know
 
 ## Service Credentials:
 
