@@ -62,41 +62,38 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 17. Robocode Competition – Team Champion
 18. Singapore Robo Grand Prix Competition @Singapore Motorshow 2004 – Team Champion, 1st Runners Up, 2nd Runners Up
 
-## Management Learning Credentials:
+## Leadership/Management Learning Credentials:
 
-1. Linkedin Learning - Certificate of Completion, Scrum: The Basics
-2. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
-3. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
-4. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
-5. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
-6. Linkedin Learning - Certificate of Completion, Agile Project Leadership
-7. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
-8. Linkedin Learning - Certificate of Completion, Leading Projects
-9. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
-10. Certificate of Completion - CORE1500 – CORE Champion
-11. Certificate of Completion - C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
-12. Certificate of Completion - C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
-13. Certificate of Completion - C1504WB – CORE Champion - Leadership Practices For Goal Alignment
-14. Certificate of Completion - C1503WB – CORE Champion - Deploying the CORE Operating System
-15. Certificate of Completion - C1502WB – CORE Champion - Configuring the CORE Operating System
-16. Certificate of Completion - C1501WB – CORE Champion – Leading with the CORE Operating System
-17. Certificate of Completion - CORE1000 – CORE Apprentice
-18. Certificate of Completion - C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
-19. Certificate of Completion - C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
-20. Certificate of Completion - C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
-21. Certificate of Completion - C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
-22. Linkedin Learning - Certificate of Completion, Agile Foundations
-23. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
-24. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
-25. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
-26. Certificate of Completion - ITSECRMF100WB, IRAMP/RMF Overview
-27. Certificate of Completion - ITSECPUSA100WB, Privileged User/System Administrator Overview
-28. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-
-33. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-
-38. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
-39. Alison - Certificate, Coronavirus - What you need to know
+1. Certificate of Completion - CORE1500 – CORE Champion
+2. Certificate of Completion - C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
+3. Certificate of Completion - C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
+4. Certificate of Completion - C1504WB – CORE Champion - Leadership Practices For Goal Alignment
+5. Certificate of Completion - C1503WB – CORE Champion - Deploying the CORE Operating System
+6. Certificate of Completion - C1502WB – CORE Champion - Configuring the CORE Operating System
+7. Certificate of Completion - C1501WB – CORE Champion – Leading with the CORE Operating System
+8. Certificate of Completion - CORE1000 – CORE Apprentice
+9. Certificate of Completion - C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
+10. Certificate of Completion - C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
+11. Certificate of Completion - C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
+12. Certificate of Completion - C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
+13. Beta University, Beta Online Program - Certificate of Completion
+14. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
+15. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
+16. Linkedin Learning - Certificate of Completion, Scrum: The Basics
+17. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
+18. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
+19. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
+20. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
+21. Linkedin Learning - Certificate of Completion, Agile Project Leadership
+22. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
+23. Linkedin Learning - Certificate of Completion, Leading Projects
+24. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
+25. Linkedin Learning - Certificate of Completion, Agile Foundations
+26. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
+27. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+28. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
+29. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+30. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
@@ -107,7 +104,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 5. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
 6. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
 7. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
-8.  BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+8. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
 9. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
 10. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
 11. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
@@ -119,15 +116,15 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Non-Technical Learning Credentials: 
 
-1. HubSpot Academy - Content Marketing Certified
-2. HubSpot Academy - Inbound Marketing Certified
-3. HubSpot Academy - Social Media Certified
-37. HubSpot Academy - Email Marketing Certified
-38. 29. Beta University, Beta Online Program - Certificate of Completion
-30. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
-31. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
-32. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
-33. Alison - Certificate, Coronavirus - What you need to know
+1. Nanyang Technological University, School of Electrical and Electronic Engineering (EEE) - Certificate of Completion, Research Integrity Course Module in Engineering and Technology Track
+2. Google Digital Garage - Certificate of Achievement, The Fundamentals of Digital Marketing
+3. Certificate of Completion - ITSECRMF100WB, IRAMP/RMF Overview
+4. Certificate of Completion - ITSECPUSA100WB, Privileged User/System Administrator Overview
+5. HubSpot Academy - Content Marketing Certified
+6. HubSpot Academy - Inbound Marketing Certified
+7. HubSpot Academy - Social Media Certified
+8. HubSpot Academy - Email Marketing Certified
+9. Alison - Certificate, Coronavirus - What you need to know
 
 ## Service Credentials:
 
