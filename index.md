@@ -64,35 +64,43 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Leadership/Management Learning Credentials:
 
-1. RTX - Certificate of Completion, CORE1500 – CORE Champion
-2. RTX - Certificate of Completion, C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
-3. RTX - Certificate of Completion, C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
-4. RTX - Certificate of Completion, C1504WB – CORE Champion - Leadership Practices For Goal Alignment
-5. RTX - Certificate of Completion, C1503WB – CORE Champion - Deploying the CORE Operating System
-6. RTX - Certificate of Completion, C1502WB – CORE Champion - Configuring the CORE Operating System
-7. RTX - Certificate of Completion, C1501WB – CORE Champion – Leading with the CORE Operating System
-8. RTX - Certificate of Completion, CORE1000 – CORE Apprentice
-9. RTX - Certificate of Completion, C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
-10. RTX - Certificate of Completion, C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
-11. RTX - Certificate of Completion, C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
-12. RTX - Certificate of Completion, C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
-13. Beta University, Beta Online Program - Certificate of Completion
-14. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
-15. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-16. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
-17. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
-18. Linkedin Learning - Certificate of Completion, Leading Projects
-19. Linkedin Learning - Certificate of Completion, Scrum: The Basics
-20. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
-21. Linkedin Learning - Certificate of Completion, Agile Project Leadership
-22. Linkedin Learning - Certificate of Completion, Agile Foundations
-23. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
-24. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
-25. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
-26. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
-27. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
-28. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-29. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+1. RTX - Certificate of Completion, RTX - Certificate of Completion, C3355WB - CORE Expert - Lean Value & Flow - Lean / Agile / Product Development / Lean Portfolio Management Assessment
+2. RTX - Certificate of Completion, CORE2150 - CORE Professional - Foundation - CORE Operating System
+3. RTX - Certificate of Completion, C2153WB - CORE Professional - Value Stream Mapping (VSM) Overview
+4. RTX - Certificate of Completion, C2152WB - CORE Professional - Visual Management
+5. RTX - Certificate of Completion, C2151WB - CORE Professional - 5S
+6. RTX - Certificate of Completion, C2150WB - CORE Professional - CORE Operating System (OS) for Professionals
+7. RTX - Certificate of Completion, CORE1500 – CORE Champion
+8. RTX - Certificate of Completion, C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
+9. RTX - Certificate of Completion, C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
+10. RTX - Certificate of Completion, C1504WB – CORE Champion - Leadership Practices For Goal Alignment
+11. RTX - Certificate of Completion, C1503WB – CORE Champion - Deploying the CORE Operating System
+12. RTX - Certificate of Completion, C1502WB – CORE Champion - Configuring the CORE Operating System
+13. RTX - Certificate of Completion, C1501WB – CORE Champion – Leading with the CORE Operating System
+14. RTX - Certificate of Completion, CORE1000 – CORE Apprentice
+15. RTX - Certificate of Completion, C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
+16. RTX - Certificate of Completion, C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
+17. RTX - Certificate of Completion, C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
+18. RTX - Certificate of Completion, C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
+19. Beta University, Beta Online Program - Certificate of Completion
+20. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
+21. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
+22. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
+23. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
+24. Linkedin Learning - Certificate of Completion, Project Management Tips
+25. Linkedin Learning - Certificate of Completion, Project Leadership
+26. Linkedin Learning - Certificate of Completion, Leading Projects
+27. Linkedin Learning - Certificate of Completion, Scrum: The Basics
+28. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
+29. Linkedin Learning - Certificate of Completion, Agile Project Leadership
+30. Linkedin Learning - Certificate of Completion, Agile Foundations
+31. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
+32. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+33. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
+34. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
+35. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
+36. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+37. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
