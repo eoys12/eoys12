@@ -64,12 +64,12 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Leadership/Management Learning Credentials:
 
-1. RTX - Certificate of Completion, RTX - Certificate of Completion, C3355WB - CORE Expert - Lean Value & Flow - Lean / Agile / Product Development / Lean Portfolio Management Assessment
-2. RTX - Certificate of Completion, CORE2150 - CORE Professional - Foundation - CORE Operating System
-3. RTX - Certificate of Completion, C2153WB - CORE Professional - Value Stream Mapping (VSM) Overview
-4. RTX - Certificate of Completion, C2152WB - CORE Professional - Visual Management
-5. RTX - Certificate of Completion, C2151WB - CORE Professional - 5S
-6. RTX - Certificate of Completion, C2150WB - CORE Professional - CORE Operating System (OS) for Professionals
+1. RTX - Certificate of Completion, RTX - Certificate of Completion, C3355WB – CORE Expert - Lean Value & Flow - Lean / Agile / Product Development / Lean Portfolio Management Assessment
+2. RTX - Certificate of Completion, CORE2150 – CORE Professional - Foundation - CORE Operating System
+3. RTX - Certificate of Completion, C2153WB – CORE Professional - Value Stream Mapping (VSM) Overview
+4. RTX - Certificate of Completion, C2152WB – CORE Professional - Visual Management
+5. RTX - Certificate of Completion, C2151WB – CORE Professional - 5S
+6. RTX - Certificate of Completion, C2150WB – CORE Professional - CORE Operating System (OS) for Professionals
 7. RTX - Certificate of Completion, CORE1500 – CORE Champion
 8. RTX - Certificate of Completion, C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
 9. RTX - Certificate of Completion, C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
