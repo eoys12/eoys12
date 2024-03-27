@@ -91,16 +91,20 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 25. Linkedin Learning - Certificate of Completion, Project Leadership
 26. Linkedin Learning - Certificate of Completion, Leading Projects
 27. Linkedin Learning - Certificate of Completion, Scrum: The Basics
-28. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
-29. Linkedin Learning - Certificate of Completion, Agile Project Leadership
-30. Linkedin Learning - Certificate of Completion, Agile Foundations
-31. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
-32. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
-33. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
-34. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
-35. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
-36. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-37. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+28. Linkedin Learning - Certificate of Completion, Cert Prep: Scrum Master
+29. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
+30. Linkedin Learning - Certificate of Completion, Agile Project Leadership
+31. Linkedin Learning - Certificate of Completion, Agile Foundations
+32. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
+33. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+34. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
+35. Linkedin Learning - Certificate of Completion, Agile Product Owner Role: Foundations
+36. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
+37. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
+38. Linkedin Learning - Certificate of Completion, Six Sigma Foundations
+39. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+40. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
+41. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
@@ -120,6 +124,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 14. BitDegree - Certificate of Completion, GIT tutorial for beginners
 15. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
 16. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+17. Linkedin Learning - Certificate of Completion, HTTP Essential Training
 
 ## Non-Technical Learning Credentials: 
 
