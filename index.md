@@ -97,16 +97,17 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 31. Linkedin Learning - Certificate of Completion, Agile Project Leadership
 32. Linkedin Learning - Certificate of Completion, Agile Foundations
 33. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
-34. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
-35. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
-36. Linkedin Learning - Certificate of Completion, Agile Product Owner Role: Foundations
-37. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
-38. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
-39. Linkedin Learning - Certificate of Completion, Six Sigma Foundations
-40. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-41. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
-42. Linkedin Learning - Certificate of Completion, Six Sigma: Black Belt
-43. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+34. Linkedin Learning - Certificate of Completion, Agile Software Development
+35. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+36. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
+37. Linkedin Learning - Certificate of Completion, Agile Product Owner Role: Foundations
+38. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
+39. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
+40. Linkedin Learning - Certificate of Completion, Six Sigma Foundations
+41. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+42. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
+43. Linkedin Learning - Certificate of Completion, Six Sigma: Black Belt
+44. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
