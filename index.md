@@ -1,4 +1,4 @@
-![Image of Edward Ong & Ng Li Ying](/images/P003.jpg)
+![Image of Edward Ong](/images/97E620A0-E53D-44A0-ADD4-7B7D5FC77277.jpeg)
 
 # Edward Ong Yong Seng (王永成）
 
@@ -20,7 +20,6 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 |                                                                                                                                                ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-brightgreen) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-green) ![Canva](https://img.shields.io/badge/-Canva-yellowgreen)                                                                                                                                                 |                                                     ![Strategy Innovation](https://img.shields.io/badge/-Strategy%20Innovation-red) ![Corporate Finance](https://img.shields.io/badge/-Corporate%20Finance-lightgrey) ![Merger & Acquisition](https://img.shields.io/badge/-Merger%20%26%20Acquisition-blue)                                                      |                                             ![Learning React](https://img.shields.io/badge/-Learning%20React-red) ![Learning%20C--Sharp](https://img.shields.io/badge/-Learning%20C--Sharp-green)                                             |
 |                                                                                                                                                                                                                      ![Node-RED](https://img.shields.io/badge/-Node--RED-red) ![Pekat-Vision](https://img.shields.io/badge/-Pekat--Vision-blue) ![iBlueDrive](https://img.shields.io/badge/-iBlueDrive-lightgrey) ![Basler](https://img.shields.io/badge/-Basler-green) ![Vusion4.2BWR](https://img.shields.io/badge/-Vusion4.2BWR-orange)                                                                                                                                                                                                                       |                                   ![New Venture Creation: Managing Growth](https://img.shields.io/badge/-New%20Venture%20Creation:%20Managing%20Growth-brightgreen) ![New Venture Creation: Implementing Business Strategy](https://img.shields.io/badge/-New%20Venture%20Creation:%20Implementing%20Business%20Strategy-green)                                   |                                                                                                         -                                                                                                                                      |
 
-![Image of Edward Ong & Ng Li Ying](/images/cover04.png)
 
 ## Understand Past . Appreciate Present . Ready for Future
 
@@ -156,8 +155,6 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 9. West Grove Primary School - Appreciation Award
 
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
-
-![Love is in the air . . .](https://media.giphy.com/media/dva7aK2FEjNwkft9PB/giphy.gif)
 
 ## Credits
 
