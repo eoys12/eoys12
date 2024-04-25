@@ -144,6 +144,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 29. Linkedin Learning - Certificate of Completion, UX Design: 4 Ideation
 30. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
 31. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
+32. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
 
 ## Non-Technical Learning Credentials: 
 
