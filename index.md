@@ -109,7 +109,8 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 44. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
 45. Linkedin Learning - Certificate of Completion, Six Sigma: Black Belt
 46. Linkedin Learning - Certificate of Completion, Operational Excellence Foundations
-47. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+47. Linkedin Learning - Certificate of Completion, Operational Excellence Work-Out and Kaizen Facilitator
+48. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
@@ -145,6 +146,10 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 30. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
 31. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
 32. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
+33. Linkedin Learning - Certificate of Completion, Agile Software Development: Refactoring
+34. Linkedin Learning - Certificate of Completion, Learning FPGA Development
+35. Linkedin Learning - Certificate of Completion, SAP ERP Essential Training
+36. Linkedin Learning - Certificate of Completion, Using Python for Automation (2019)
 
 ## Non-Technical Learning Credentials: 
 
