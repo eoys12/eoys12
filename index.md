@@ -165,15 +165,16 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Service Credentials:
 
-1. Engineering Innovation Challenge 2023 (Mentor) - Certificate of Appreciation
-2. Microsoft Learn Student Ambassadors PSB Academy - Certificate of Appreciation
-3. Engineering Innovation Challenge 2021 (Mentor) - Certificate of Appreciation
-4. Engineering Innovation Challenge 2020 (Mentor) - Certificate of Appreciation
-5. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
-6. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
-7. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
-8. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
-9. West Grove Primary School - Appreciation Award
+1. Engineering Innovation Challenge 2024 (Mentor) - Certificate of Appreciation
+2. Engineering Innovation Challenge 2023 (Mentor) - Certificate of Appreciation
+3. Microsoft Learn Student Ambassadors PSB Academy - Certificate of Appreciation
+4. Engineering Innovation Challenge 2021 (Mentor) - Certificate of Appreciation
+5. Engineering Innovation Challenge 2020 (Mentor) - Certificate of Appreciation
+6. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
+7. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
+8. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
+9. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
+10. West Grove Primary School - Appreciation Award
 
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
