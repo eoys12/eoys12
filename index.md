@@ -180,7 +180,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
-![Image of Motivation Quotes(/images/Motivation Professional Post.png)
+![Image of Motivation Quotes](/images/Motivation Professional Post.png)
 
 ## Credits
 
