@@ -182,6 +182,10 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ![Image of Motivation Post](/images/MotivationProfessionalPost.png)
 
+## Next Generation of Music Creation
+
+Hear my Music on [Made With Love](https://www.udio.com/songs/3QUQgsGMg47mY3kfPemRk5).
+
 ## Credits
 
 _"Icon made by Freepik from www.flaticon.com"_
