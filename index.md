@@ -28,6 +28,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 > -- Edward Ong
 >
 > View my gallery on [Singaporeans & Friends](https://eoys12.github.io/eoys12/singaporeans&friends.html).
+> Hear my Music on [Made With Love](https://www.udio.com/songs/3QUQgsGMg47mY3kfPemRk5).
 
 ## Academic Awards
 
@@ -181,10 +182,6 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
 ![Image of Motivation Post](/images/MotivationProfessionalPost.png)
-
-## Next Generation of Music Creation
-
-Hear my Music on [Made With Love](https://www.udio.com/songs/3QUQgsGMg47mY3kfPemRk5).
 
 ## Credits
 
