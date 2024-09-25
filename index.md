@@ -44,20 +44,21 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Competition Awards
 
-1. Hack:Nation Robocode Wars 2018 - Team Champion (Creative Sound Blaster Roar), 1st Runners Up (Razer Mouse), 2nd Runners Up (MyRepublic Thumbdrive)
-2. iDigix 3D-Tronics Challenge 2017 – (Open Category) Team Champion
-3. Climate Innovation Challenge 2016 – Second Prize
-4. Cool Ideas for Better HDB Living 2013/2014 Competition (Stage 1) – Top 10
-5. APEC Micro Mouse Contest, Palm Springs California – Team Champion
-6. Singapore Robotics Games – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
-7. Nationwide Robo Grand Prix – Team Champion, 1st Runners Up, 2nd Runners Up, 3rd Runners Up, Merit
-8. Robo One (R1) – Team Champion, 1st Runners Up
-9. Singapore Junior Solar Sprint Car Competition – Team Champion
-10. Singapore Robo Grand Prix Mini Competition – Team Champion, 1st Runners Up, 2nd Runners Up, 3rd Runners Up
-11. Singapore Inter School Micromouse Contest – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
-12. ITE Simei Robotics Challenge – Team Champion
-13. National StrITwise Competition – Best Design Award, 1st Runners Up
-14. ITE Central Robotics Challenge – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
+1. I am Ai Bootcamp #8|Learn Music, Art and Social Media – Second Prize
+2. Hack:Nation Robocode Wars 2018 - Team Champion (Creative Sound Blaster Roar), 1st Runners Up (Razer Mouse), 2nd Runners Up (MyRepublic Thumbdrive)
+3. iDigix 3D-Tronics Challenge 2017 – (Open Category) Team Champion
+4. Climate Innovation Challenge 2016 – Second Prize
+5. Cool Ideas for Better HDB Living 2013/2014 Competition (Stage 1) – Top 10
+6. APEC Micro Mouse Contest, Palm Springs California – Team Champion
+7. Singapore Robotics Games – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
+8. Nationwide Robo Grand Prix – Team Champion, 1st Runners Up, 2nd Runners Up, 3rd Runners Up, Merit
+9. Robo One (R1) – Team Champion, 1st Runners Up
+10. Singapore Junior Solar Sprint Car Competition – Team Champion
+11. Singapore Robo Grand Prix Mini Competition – Team Champion, 1st Runners Up, 2nd Runners Up, 3rd Runners Up
+12. Singapore Inter School Micromouse Contest – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
+13. ITE Simei Robotics Challenge – Team Champion
+14. National StrITwise Competition – Best Design Award, 1st Runners Up
+15. ITE Central Robotics Challenge – Team Champion, 1st Runners Up, 2nd Runners Up, Merit
 15. My Newspaper Scrapbook Competition – Merit Award
 16. National Mobile Robot Competition – Team Champion
 17. Robocode Competition – Team Champion
