@@ -44,7 +44,7 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Competition Awards
 
-1. I am Ai Bootcamp #8|Learn Music, Art and Social Media – Second Prize
+1. I am Ai Bootcamp #8 Learn Music, Art and Social Media – Second Prize
 2. Hack:Nation Robocode Wars 2018 - Team Champion (Creative Sound Blaster Roar), 1st Runners Up (Razer Mouse), 2nd Runners Up (MyRepublic Thumbdrive)
 3. iDigix 3D-Tronics Challenge 2017 – (Open Category) Team Champion
 4. Climate Innovation Challenge 2016 – Second Prize
