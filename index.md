@@ -119,42 +119,47 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Technical Learning Credentials:
 
-1. Linkedin Learning - Certificate of Completion, What Is Generative AI?
-2. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
-3. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
-4. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
-5. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
-6. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
-7. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
-8. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
-9. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
-10. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
-11. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
-12. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
-13. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
-14. BitDegree - Certificate of Completion, GIT tutorial for beginners
-15. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
-16. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
-17. Linkedin Learning - Certificate of Completion, HTTP Essential Training
-18. Linkedin Learning - Certificate of Completion, Tech Trends
-19. Linkedin Learning - Certificate of Completion, Server Administration Essential Training
-20. Linkedin Learning - Certificate of Completion, Advanced AI: NLP Techniques for Clinical Datasets
-21. Linkedin Learning - Certificate of Completion, Advanced C Programming: Optimize Performance and Efficiency
-22. Linkedin Learning - Certificate of Completion, Hands-On PyTorch Machine Learning
-23. Linkedin Learning - Certificate of Completion, Introduction to Prompt Engineering for Generative AI
-24. Linkedin Learning - Certificate of Completion, Succeeding in Web Development: Full Stack and Front End
-25. Linkedin Learning - Certificate of Completion, The Cybersecurity Threat Landscape
-26. Linkedin Learning - Certificate of Completion, UX Design: 1 Overview
-27. Linkedin Learning - Certificate of Completion, UX Design: 2 Analyzing User Data
-28. Linkedin Learning - Certificate of Completion, UX Design: 3 Creating Personas
-29. Linkedin Learning - Certificate of Completion, UX Design: 4 Ideation
-30. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
-31. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
-32. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
-33. Linkedin Learning - Certificate of Completion, Agile Software Development: Refactoring
-34. Linkedin Learning - Certificate of Completion, Learning FPGA Development
-35. Linkedin Learning - Certificate of Completion, SAP ERP Essential Training
-36. Linkedin Learning - Certificate of Completion, Using Python for Automation (2019)
+1. Udemy - Certificate of Completion, Go - The Complete Guide
+2. Udemy - Certificate of Completion, Designing RF Communication Systems Using SDRs with GNU Radio
+3. Udemy - Certificate of Completion, Quick Introduction to Postman and API Testing for Beginners
+4. Udemy - Certificate of Completion, Visual Studio Code for Developers 2024: Beginner to Advanced
+5. Udemy - Certificate of Completion, Learning Complete PCB Design: From an Idea to a Product
+6. Linkedin Learning - Certificate of Completion, What Is Generative AI?
+7. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
+8. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
+9. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
+10. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
+11. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
+12. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
+13. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+14. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+15. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+16. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+17. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
+18. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
+19. BitDegree - Certificate of Completion, GIT tutorial for beginners
+20. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
+21. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+22. Linkedin Learning - Certificate of Completion, HTTP Essential Training
+23. Linkedin Learning - Certificate of Completion, Tech Trends
+24. Linkedin Learning - Certificate of Completion, Server Administration Essential Training
+25. Linkedin Learning - Certificate of Completion, Advanced AI: NLP Techniques for Clinical Datasets
+26. Linkedin Learning - Certificate of Completion, Advanced C Programming: Optimize Performance and Efficiency
+27. Linkedin Learning - Certificate of Completion, Hands-On PyTorch Machine Learning
+28. Linkedin Learning - Certificate of Completion, Introduction to Prompt Engineering for Generative AI
+29. Linkedin Learning - Certificate of Completion, Succeeding in Web Development: Full Stack and Front End
+30. Linkedin Learning - Certificate of Completion, The Cybersecurity Threat Landscape
+31. Linkedin Learning - Certificate of Completion, UX Design: 1 Overview
+32. Linkedin Learning - Certificate of Completion, UX Design: 2 Analyzing User Data
+33. Linkedin Learning - Certificate of Completion, UX Design: 3 Creating Personas
+34. Linkedin Learning - Certificate of Completion, UX Design: 4 Ideation
+35. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
+36. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
+37. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
+38. Linkedin Learning - Certificate of Completion, Agile Software Development: Refactoring
+39. Linkedin Learning - Certificate of Completion, Learning FPGA Development
+40. Linkedin Learning - Certificate of Completion, SAP ERP Essential Training
+41. Linkedin Learning - Certificate of Completion, Using Python for Automation (2019)
 
 ## Non-Technical Learning Credentials: 
 
