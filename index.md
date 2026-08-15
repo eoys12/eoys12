@@ -68,105 +68,122 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Leadership/Management Learning Credentials:
 
-1. nacli - Certificate of Achievement, Design Thinking and Residents' Journey Mapping
-2. nacli - Certificate of Achievement, Team Conflict Management
-3. nacli - Certificate of Achievement, Introduction to Grassroots Financial Accounting System (G-FAST)
-4. nacli - Certificate of Achievement, Induction for the People's Association New Grassroots Leaders
-5. nacli - Certificate of Achievement, Emotional Intelligence Connecting with Self and Others
-6. nacli - Certificate of Achievement, Essentials for Communicating Public Policies (1)
-7. nacli - Certificate of Achievement, Office Bearer Induction for Treasurers/Assistant Treasurers/Auditors
-8. RTX - Certificate of Completion, RTX - Certificate of Completion, C3355WB – CORE Expert - Lean Value & Flow - Lean / Agile / Product Development / Lean Portfolio Management Assessment
-9. RTX - Certificate of Completion, CORE2150 – CORE Professional - Foundation - CORE Operating System
-10. RTX - Certificate of Completion, C2153WB – CORE Professional - Value Stream Mapping (VSM) Overview
-11. RTX - Certificate of Completion, C2152WB – CORE Professional - Visual Management
-12. RTX - Certificate of Completion, C2151WB – CORE Professional - 5S
-13. RTX - Certificate of Completion, C2150WB – CORE Professional - CORE Operating System (OS) for Professionals
-14. RTX - Certificate of Completion, CORE1500 – CORE Champion
-15. RTX - Certificate of Completion, C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
-16. RTX - Certificate of Completion, C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
-17. RTX - Certificate of Completion, C1504WB – CORE Champion - Leadership Practices For Goal Alignment
-18. RTX - Certificate of Completion, C1503WB – CORE Champion - Deploying the CORE Operating System
-19. RTX - Certificate of Completion, C1502WB – CORE Champion - Configuring the CORE Operating System
-20. RTX - Certificate of Completion, C1501WB – CORE Champion – Leading with the CORE Operating System
-21. RTX - Certificate of Completion, CORE1000 – CORE Apprentice
-22. RTX - Certificate of Completion, C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
-23. RTX - Certificate of Completion, C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
-24. RTX - Certificate of Completion, C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
-25. RTX - Certificate of Completion, C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
-26. Beta University, Beta Online Program - Certificate of Completion
-27. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
-28. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
-29. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
-30. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
-31. Linkedin Learning - Certificate of Completion, Project Management Tips
-32. Linkedin Learning - Certificate of Completion, Project Management Simplified
-33. Linkedin Learning - Certificate of Completion, Project Management Foundations
-34. Linkedin Learning - Certificate of Completion, Project Leadership
-35. Linkedin Learning - Certificate of Completion, Leading Projects
-36. Linkedin Learning - Certificate of Completion, Managing Multiple Projects
-37. Linkedin Learning - Certificate of Completion, Scrum: The Basics
-38. Linkedin Learning - Certificate of Completion, Cert Prep: Scrum Master
-39. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
-40. Linkedin Learning - Certificate of Completion, Agile Project Leadership
-41. Linkedin Learning - Certificate of Completion, Agile Foundations
-42. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
-43. Linkedin Learning - Certificate of Completion, Agile Software Development
-44. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
-45. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
-46. Linkedin Learning - Certificate of Completion, Agile Product Owner Role: Foundations
-47. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
-48. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
-49. Linkedin Learning - Certificate of Completion, Six Sigma Foundations
-50. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
-51. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
-52. Linkedin Learning - Certificate of Completion, Six Sigma: Black Belt
-53. Linkedin Learning - Certificate of Completion, Operational Excellence Foundations
-54. Linkedin Learning - Certificate of Completion, Operational Excellence Work-Out and Kaizen Facilitator
-55. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
+1. nacli - Certificate of Achievement, Coaching in Action
+2. nacli - Certificate of Achievement, Building Relationships - House Visit Engagement Skills
+3. nacli - Certificate of Achievement, Let's talk about it: commU&Icating better
+4. nacli - Certificate of Achievement, Engagement Tools for Community Bridging
+5. nacli - Certificate of Achievement, Partners-in-Harmony (2): Understanding Faiths, United in Harmony
+6. nacli - Certificate of Achievement, Leadership in Practice
+7. nacli - Certificate of Achievement, Handling Negative Feedback for Best Outcomes
+8. nacli - Certificate of Achievement, Building Relationships - Enhancing Resident Engagement Skills
+9. nacli - Certificate of Achievement, Design Thinking and Residents' Journey Mapping
+10. nacli - Certificate of Achievement, Team Conflict Management
+11. nacli - Certificate of Achievement, Introduction to Grassroots Financial Accounting System (G-FAST)
+12. nacli - Certificate of Achievement, Induction for the People's Association New Grassroots Leaders
+13. nacli - Certificate of Achievement, Emotional Intelligence Connecting with Self and Others
+14. nacli - Certificate of Achievement, Essentials for Communicating Public Policies (1)
+15. nacli - Certificate of Achievement, Office Bearer Induction for Treasurers/Assistant Treasurers/Auditors
+16. RTX - Certificate of Completion, RTX - Certificate of Completion, C3355WB – CORE Expert - Lean Value & Flow - Lean / Agile / Product Development / Lean Portfolio Management Assessment
+17. RTX - Certificate of Completion, CORE2150 – CORE Professional - Foundation - CORE Operating System
+18. RTX - Certificate of Completion, C2153WB – CORE Professional - Value Stream Mapping (VSM) Overview
+19. RTX - Certificate of Completion, C2152WB – CORE Professional - Visual Management
+20. RTX - Certificate of Completion, C2151WB – CORE Professional - 5S
+21. RTX - Certificate of Completion, C2150WB – CORE Professional - CORE Operating System (OS) for Professionals
+22. RTX - Certificate of Completion, CORE1500 – CORE Champion
+23. RTX - Certificate of Completion, C1506WB – CORE Champion - Leadership Practices for Capability and Process Improvement
+24. RTX - Certificate of Completion, C1505WB – CORE Champion - Leadership Practices for an Enabled Work Environment
+25. RTX - Certificate of Completion, C1504WB – CORE Champion - Leadership Practices For Goal Alignment
+26. RTX - Certificate of Completion, C1503WB – CORE Champion - Deploying the CORE Operating System
+27. RTX - Certificate of Completion, C1502WB – CORE Champion - Configuring the CORE Operating System
+28. RTX - Certificate of Completion, C1501WB – CORE Champion – Leading with the CORE Operating System
+29. RTX - Certificate of Completion, CORE1000 – CORE Apprentice
+30. RTX - Certificate of Completion, C1004WB – CORE Apprentice - CORE Methods for Capability and Process Improvement
+31. RTX - Certificate of Completion, C1003WB – CORE Apprentice - CORE Methods for an Enabled Work Environment
+32. RTX - Certificate of Completion, C1002WB – CORE Apprentice - CORE Methods for Goal Alignment
+33. RTX - Certificate of Completion, C1001WB – CORE Operating System - Introduction to CORE: Customer Oriented Results and Excellence (Apprentice, Champion, Professional, Expert and Principal)
+34. Beta University, Beta Online Program - Certificate of Completion
+35. Nanyang Technological University - Certificate of Achievement, GEM Explorer Student Exchange Programme at University of Strathclyde (Faculty of Engineering), United Kingdom
+36. Nanyang Technological University - Certificate of Completion, Business and Engineering Ethics
+37. Linkedin Learning - Certificate of Completion, Leadership Mindsets
+38. Linkedin Learning - Certificate of Completion, How to Work Smarter, Not Harder: Save Time and Money and Increase Productivity
+39. Linkedin Learning - Certificate of Completion, Product Management: Building a Product Roadmap
+40. Linkedin Learning - Certificate of Completion, Project Management: Solving Common Project Problems
+41. Linkedin Learning - Certificate of Completion, Project Management Tips
+42. Linkedin Learning - Certificate of Completion, Project Management Simplified
+43. Linkedin Learning - Certificate of Completion, Project Management Foundations
+44. Linkedin Learning - Certificate of Completion, Project Leadership
+45. Linkedin Learning - Certificate of Completion, Leading Projects
+46. Linkedin Learning - Certificate of Completion, Managing Multiple Projects
+47. Linkedin Learning - Certificate of Completion, Scrum: The Basics
+48. Linkedin Learning - Certificate of Completion, Cert Prep: Scrum Master
+49. Linkedin Learning - Certificate of Completion, Characteristics of a Great Scrum Master
+50. Linkedin Learning - Certificate of Completion, Agile Project Leadership
+51. Linkedin Learning - Certificate of Completion, Agile Foundations
+52. Linkedin Learning - Certificate of Completion, Agile New Product Development for Manufacturers
+53. Linkedin Learning - Certificate of Completion, Agile Software Development
+54. Linkedin Learning - Certificate of Completion, Agile at Work: Driving Productive Agile Meetings
+55. Linkedin Learning - Certificate of Completion, Agile at Work: Building Your Agile Team
+56. Linkedin Learning - Certificate of Completion, Agile Product Owner Role: Foundations
+57. Linkedin Learning - Certificate of Completion, Comparing Agile versus Waterfall Project Management
+58. Linkedin Learning - Certificate of Completion, Lean Six Sigma Foundations
+59. Linkedin Learning - Certificate of Completion, Six Sigma Foundations
+60. Linkedin Learning - Certificate of Completion, Six Sigma: Green Belt
+61. Linkedin Learning - Certificate of Completion, Six Sigma: White Belt
+62. Linkedin Learning - Certificate of Completion, Six Sigma: Black Belt
+63. Linkedin Learning - Certificate of Completion, Operational Excellence Foundations
+64. Linkedin Learning - Certificate of Completion, Operational Excellence Work-Out and Kaizen Facilitator
+65. BitDegree - Certificate of Completion, Lean Six Sigma Training - Improve Your Business Now!
 
 ## Technical Learning Credentials:
 
 1. Udemy - Certificate of Completion, Go - The Complete Guide
-2. Udemy - Certificate of Completion, Designing RF Communication Systems Using SDRs with GNU Radio
-3. Udemy - Certificate of Completion, Quick Introduction to Postman and API Testing for Beginners
-4. Udemy - Certificate of Completion, Visual Studio Code for Developers 2024: Beginner to Advanced
-5. Udemy - Certificate of Completion, Learning Complete PCB Design: From an Idea to a Product
-6. Linkedin Learning - Certificate of Completion, What Is Generative AI?
-7. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
-8. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
-9. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
-10. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
-11. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
-12. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
-13. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
-14. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
-15. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
-16. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
-17. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
-18. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
-19. BitDegree - Certificate of Completion, GIT tutorial for beginners
-20. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
-21. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
-22. Linkedin Learning - Certificate of Completion, HTTP Essential Training
-23. Linkedin Learning - Certificate of Completion, Tech Trends
-24. Linkedin Learning - Certificate of Completion, Server Administration Essential Training
-25. Linkedin Learning - Certificate of Completion, Advanced AI: NLP Techniques for Clinical Datasets
-26. Linkedin Learning - Certificate of Completion, Advanced C Programming: Optimize Performance and Efficiency
-27. Linkedin Learning - Certificate of Completion, Hands-On PyTorch Machine Learning
-28. Linkedin Learning - Certificate of Completion, Introduction to Prompt Engineering for Generative AI
-29. Linkedin Learning - Certificate of Completion, Succeeding in Web Development: Full Stack and Front End
-30. Linkedin Learning - Certificate of Completion, The Cybersecurity Threat Landscape
-31. Linkedin Learning - Certificate of Completion, UX Design: 1 Overview
-32. Linkedin Learning - Certificate of Completion, UX Design: 2 Analyzing User Data
-33. Linkedin Learning - Certificate of Completion, UX Design: 3 Creating Personas
-34. Linkedin Learning - Certificate of Completion, UX Design: 4 Ideation
-35. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
-36. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
-37. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
-38. Linkedin Learning - Certificate of Completion, Agile Software Development: Refactoring
-39. Linkedin Learning - Certificate of Completion, Learning FPGA Development
-40. Linkedin Learning - Certificate of Completion, SAP ERP Essential Training
-41. Linkedin Learning - Certificate of Completion, Using Python for Automation (2019)
+2. Udemy - Certificate of Completion, FreeCAD v1.0 2025 Ultimate Beginners Course Extended Version
+3. Udemy - Certificate of Completion, Master Microsoft Powershell
+4. Udemy - Certificate of Completion, Canva Master Course Use Canva to Grow your Business
+5. Udemy - Certificate of Completion, Designing RF Communication Systems Using SDRs with GNU Radio
+6. Udemy - Certificate of Completion, Quick Introduction to Postman and API Testing for Beginners
+7. Udemy - Certificate of Completion, Visual Studio Code for Developers 2024: Beginner to Advanced
+8. Udemy - Certificate of Completion, Learning Complete PCB Design: From an Idea to a Product
+9. Intel® AI Academy - Certificate of Completion, AI From the Data Center to the Edge - An Optimized Path Using Intel® Architecture
+10. Udemy - Certificate of Completion, OutSystems Reactive for Beginners
+11. Udemy - Certificate of Completion, UI UX Design & Prototyping using Adobe XD - 2020 Essentials
+12. Udemy - Certificate of Completion, Complete App Design - UX, UI, and Design Thinking
+13. Udemy - Certificate of Completion, User Experience Design Essentials - Adobe XD UX UI Design
+14. BitDegree - Certificate of Completion, Absolute Guide: Linux Tutorial for Beginners
+15. BitDegree - Certificate of Completion, Introducing Coding for Beginners: an HTML and CSS Online Course
+16. BitDegree - Certificate of Completion, PHP Facebook Messenger Bot
+17. BitDegree - Certificate of Completion, Build a VMware Home Lab from Scratch With this Course!
+18. BitDegree - Certificate of Completion, Dreamweaver Tutorial for Beginners: Introduction to Web Design
+19. BitDegree - Certificate of Completion, Learn Web Design: The Ultimate Guide For Beginners
+20. BitDegree - Certificate of Completion, GIT tutorial for beginners
+21. BitDegree - Certificate of Completion, Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch
+22. BitDegree - Certificate of Completion, Django Deployment on DigitalOcean Made Easy
+23. Linkedin Learning - Certificate of Completion, What Is Generative AI?
+24. Linkedin Learning - Certificate of Completion, Visual Studio 2022, First Look
+25. Linkedin Learning - Certificate of Completion, Introduction to Large Language Models
+26. Linkedin Learning - Certificate of Completion, Designing Agentic AI Products (No Code Required)
+27. Linkedin Learning - Certificate of Completion, Learning Microsoft 365 Copilot Chat (Free Version)
+28. Linkedin Learning - Certificate of Completion, Generative AI for Business Leaders (2025)
+29. Linkedin Learning - Certificate of Completion, HTTP Essential Training
+30. Linkedin Learning - Certificate of Completion, Tech Trends
+31. Linkedin Learning - Certificate of Completion, Server Administration Essential Training
+32. Linkedin Learning - Certificate of Completion, Advanced AI: NLP Techniques for Clinical Datasets
+33. Linkedin Learning - Certificate of Completion, Advanced C Programming: Optimize Performance and Efficiency
+34. Linkedin Learning - Certificate of Completion, Hands-On PyTorch Machine Learning
+35. Linkedin Learning - Certificate of Completion, Introduction to Prompt Engineering for Generative AI
+36. Linkedin Learning - Certificate of Completion, Succeeding in Web Development: Full Stack and Front End
+37. Linkedin Learning - Certificate of Completion, The Cybersecurity Threat Landscape
+38. Linkedin Learning - Certificate of Completion, UX Design: 1 Overview
+39. Linkedin Learning - Certificate of Completion, UX Design: 2 Analyzing User Data
+40. Linkedin Learning - Certificate of Completion, UX Design: 3 Creating Personas
+41. Linkedin Learning - Certificate of Completion, UX Design: 4 Ideation
+42. Linkedin Learning - Certificate of Completion, UX Design: 5 Creating Scenarios and Storyboards
+43. Linkedin Learning - Certificate of Completion, UX Design: 6 Paper Prototyping
+44. Linkedin Learning - Certificate of Completion, UX Design: 7 Implementation Planning
+45. Linkedin Learning - Certificate of Completion, Agile Software Development: Refactoring
+46. Linkedin Learning - Certificate of Completion, Learning FPGA Development
+47. Linkedin Learning - Certificate of Completion, SAP ERP Essential Training
+48. Linkedin Learning - Certificate of Completion, Using Python for Automation (2019)
 
 ## Non-Technical Learning Credentials: 
 
