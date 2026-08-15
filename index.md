@@ -199,16 +199,19 @@ In addition, Edward Ong has obtained the Nanyang Polytechnic (NYP) Scholarship A
 
 ## Service Credentials:
 
-1. Engineering Innovation Challenge 2024 (Mentor) - Certificate of Appreciation
-2. Engineering Innovation Challenge 2023 (Mentor) - Certificate of Appreciation
-3. Microsoft Learn Student Ambassadors PSB Academy - Certificate of Appreciation
-4. Engineering Innovation Challenge 2021 (Mentor) - Certificate of Appreciation
-5. Engineering Innovation Challenge 2020 (Mentor) - Certificate of Appreciation
-6. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
-7. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
-8. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
-9. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
-10. West Grove Primary School - Appreciation Award
+1. People's Association Community 5-Year Long Service Award - Certificate of Appreciation
+3. Engineering Innovation Challenge 2026 (Mentor) - Certificate of Appreciation
+4. Engineering Innovation Challenge 2025 (Mentor) - Certificate of Appreciation
+5. Engineering Innovation Challenge 2024 (Mentor) - Certificate of Appreciation
+6. Engineering Innovation Challenge 2023 (Mentor) - Certificate of Appreciation
+7. Microsoft Learn Student Ambassadors PSB Academy - Certificate of Appreciation
+8. Engineering Innovation Challenge 2021 (Mentor) - Certificate of Appreciation
+9. Engineering Innovation Challenge 2020 (Mentor) - Certificate of Appreciation
+10. IPMA® Young Crew - Letter of Congratulations, Young Crew Singapore Awards Commissioner
+11. SG100 Foundation - Certificate of Appreciation "Lest We Forget" 3rd Annual Dinner - 22nd March 2018
+12. Grassroots Adviser Ms Indranee Thurai Rajah - Certificate of Contribution, SG100 Nation Hack-a-thon
+13. 4SIR, Bravo Coy - Service & Support Soldier of the Month of September
+14. West Grove Primary School - Appreciation Award
 
 ## Thank You for Visiting! Terima Kasih! 谢谢你的拜访! வருகைக்கு நன்றி!
 
